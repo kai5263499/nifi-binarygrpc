@@ -11,6 +11,9 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <nifi.version>1.6.0</nifi.version>
+        <narGroup>com.manwe.binarygrpc</narGroup> 
+       <narId>nifi-binarygrpc</narId> 
+       <narVersion>1.0</narVersion>
     </properties>
     
     <dependencies>
