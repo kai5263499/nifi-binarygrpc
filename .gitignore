@@ -1,5 +1,6 @@
-/*.iml
-/.idea
+*.iml
+*.pyc
+.idea
 /target
 /server_examples/go/src
 /server_examples/go/bin
