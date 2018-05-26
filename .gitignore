@@ -1,7 +1,7 @@
 /*.iml
 /.idea
 /target
-/client_examples/go/src
-/client_examples/go/bin
-/client_examples/go/pkg
+/server_examples/go/src
+/server_examples/go/bin
+/server_examples/go/pkg
 /.vscode
