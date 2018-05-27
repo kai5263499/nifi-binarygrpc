@@ -2,7 +2,7 @@
 *.pyc
 .idea
 /target
-/server_examples/go/src
-/server_examples/go/bin
-/server_examples/go/pkg
+/examples/go/src
+/examples/go/bin
+/examples/go/pkg
 /.vscode

@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	pb "../generated"
+	pb "../../../generated"
 )
 
 type FlowFileServiceServer struct{}

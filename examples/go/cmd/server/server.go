@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	pb "./generated"
+	pb "../../generated"
 	"./service"
 
 	"log"
