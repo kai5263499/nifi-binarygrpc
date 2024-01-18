@@ -123,7 +123,7 @@ public class TestGRPCClient {
             sslContextBuilder = GrpcSslContexts.configure(sslContextBuilder);
             channelBuilder = channelBuilder.sslContext(sslContextBuilder.build());
         } else {
-            channelBuilder.usePlaintext(true);
+            channelBuilder.usePlaintext();
         }
         return channelBuilder.build();
     }

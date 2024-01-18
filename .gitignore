@@ -6,3 +6,4 @@
 /examples/go/bin
 /examples/go/pkg
 /.vscode
+bin/
